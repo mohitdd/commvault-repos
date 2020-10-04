@@ -1,0 +1,3 @@
+export const ADD_CLIENTS = "ADD_CLIENTS";
+export const CLIENTS_FAILED = "CLIENTS_FAILED";
+export const CLIENTS_LOADING = "CLIENTS_LOADING";
